@@ -76,5 +76,5 @@ Organisé par : Chahan Vidal-Gorène
 Avec le soutien de l'ERC LostMa, la junior-entreprise CartaData, l'ANR, la chaire de professeur junior de l'École nationale des chartes-PSL, le département de la recherche, la direction des études et les services logistiques.
 
 <p align="center">
-<img src="assets/enc.png" width="5%"/>  <img src="assets/cartadata.png" width="5%"/> <img src="assets/erc.jpg" width="5%"/> <img src="assets/lostma.jpg" width="5%"/> <img src="assets/anr.png" width="5%"/>
+<img src="assets/enc.png" width="15%"/>  <img src="assets/cartadata.png" width="10%"/> <img src="assets/erc.jpg" width="15%"/> <img src="assets/lostma.jpg" width="10%"/> <img src="assets/anr.png" width="15%"/>
 </p>
