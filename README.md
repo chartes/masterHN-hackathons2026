@@ -35,11 +35,11 @@ Détail des projets et institutions retenues : https://www.chartes.psl.eu/projet
 
 ### Projet 7 : L’avortement à la télévision française (1960–2024) -  Institut Nationale de l’Audiovisuel
 - Équipe : Chloe Jollivet-Courtois (M2), Irandokht Moinzadeh (M1), Charles Planque (M1)
-- Résultats :
+- Résultats : https://github.com/Phineaax/Hackathon_INA
 
 ### Projet 8 : Trouver les arbres cachés... -  École nationale des chartes-PSL, ERC LostMa
 - Équipe : Marie Bizais (M2), Ombeline Ferraris (M1), Eglantine Gaglione (M2), Mathias Garnier (M1)
-- Résultats :
+- Résultats : https://github.com/Bizais-Lillig/enc_hackathon_openstemmata
 
 ### Projet 9 : Des corpus en relief : identification, analyse et sérialisation de corpus épigraphiques -  École nationale des chartes-PSL, ANR Ecclesia, CJM, CPAF
 - Équipe : Marie Bizais (M2), Chahan Vidal-Gorène
@@ -59,13 +59,13 @@ Détail des projets et institutions retenues : https://www.chartes.psl.eu/projet
 
 ### Projet 13 : Quand Archelec rencontre l'IA -  SciencesPo
 - Équipe : Maria Kirbasova (M2), Charles Planque (M1), Manon Remot (M1)
-- Résultats :
+- Résultats : https://github.com/thecoolkided/Hackaton_Sciences_Po_Professions_de_foi
 
 ### Projet 14 : Text Acquisition Pipeline for Early-Modern Latin Manuscripts -  École nationale des chartes-PSL, ANR
 - Équipe : Pôle HTR collectif (dir. Chahan Vidal-Gorène, Alexandre Lionnet-Rollin)
 - Résultats :
 
-### Projet 15 : Analyser en direct les flux de chaînes d’information en continu -  InfoVox Tracker
+### Projet 15 : Analyser en direct les flux de chaînes d’information en continu -  InfoVox Tracker
 - Équipe : Marisol Du Cauze De Nazelle (M1), Damien Conceicao (M2), Maria Kirbasova (M2), Garance Raynaud (M1), Manon Remot (M1)
 - Résultats :
 
