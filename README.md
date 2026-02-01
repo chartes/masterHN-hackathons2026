@@ -43,7 +43,7 @@ Détail des projets et institutions retenues : https://www.chartes.psl.eu/projet
 
 ### Projet 9 : Des corpus en relief : identification, analyse et sérialisation de corpus épigraphiques -  École nationale des chartes-PSL, ANR Ecclesia, CJM, CPAF
 - Équipe : Marie Bizais (M2), Chahan Vidal-Gorène
-- Résultats :
+- Résultats : https://github.com/Bizais-Lillig/enc-hackathon-e-cclesia
 
 ### Projet 10 : O.D.I.L : Indexer automatiquement les images du Moyen-Âge par l’IA -  École nationale des chartes-PSL, EHESS, Biblissima, EPFL
 - Équipe : Quanwen Long (M2), Tianjie Yin (M2)
