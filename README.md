@@ -33,7 +33,7 @@ Détail des projets et institutions retenues : https://www.chartes.psl.eu/projet
 - Équipe : Ye Liu (M2),	Nana Maglakelidze (M2)
 - Résultats :
 
-### Projet 7 : L’avortement à la télévision française (1960–2024) -  Institut Nationale de l’Audiovisuel
+### Projet 7 : L’avortement à la télévision française (1960–2024) -  Institut National de l’Audiovisuel
 - Équipe : Chloe Jollivet-Courtois (M2), Irandokht Moinzadeh (M1), Charles Planque (M1)
 - Résultats : https://github.com/Phineaax/Hackathon_INA
 
@@ -67,7 +67,7 @@ Détail des projets et institutions retenues : https://www.chartes.psl.eu/projet
 
 ### Projet 15 : Analyser en direct les flux de chaînes d’information en continu -  InfoVox Tracker
 - Équipe : Marisol Du Cauze De Nazelle (M1), Damien Conceicao (M2), Maria Kirbasova (M2), Garance Raynaud (M1), Manon Remot (M1)
-- Résultats :
+- Résultats : https://github.com/PoidsPlume/CDingo
 
 ## Organisation
 
