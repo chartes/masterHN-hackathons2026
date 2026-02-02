@@ -11,7 +11,7 @@ Détail des projets et institutions retenues : https://www.chartes.psl.eu/projet
 
 ### Projet 1 : Plonger au cœur des réseaux à la cour de France (XVIIe–XVIIIe siècles) -  Centre de recherche du Château de Versailles
 - Équipe : Julie Duhesme (M2),	Juliette Grenier (M2), Come Parrinello (M2),	Martin Houllier (M2),	Philippe Chaumet-Riffaud (M2)
-- Résultats :
+- Résultats : https://github.com/Keep-Sake/Versailles-projet-Hackathon---donn-es-prosocours
 
 ### Projet 2 : Entités nommées dans la BiblioBase  - CNRS, ANR, cellf
 - Équipe : Gaëtan Drouet (M2), Radjaa Benabdallah (M2)
