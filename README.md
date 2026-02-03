@@ -19,7 +19,7 @@ Détail des projets et institutions retenues : https://www.chartes.psl.eu/projet
 
 ### Projet 3 : Abbreviations and algorithms - The Icelandic challenge -  École nationale des chartes-PSL, ANR
 - Équipe : Pôle HTR collectif (dir. Chahan Vidal-Gorène, Alexandre Lionnet-Rollin)
-- Résultats :
+- Résultats : https://github.com/CVidalG/HackathonHN-2026-HTR
 
 ### Projet 4 : Album de Vaucluse : Quand les cartes postales révèlent le territoire -  Archives départementales du Vaucluse
 - Équipe : Maxime Letoffe (M1), Mathieu Riviere (M1),	Mathias Garnier (M1)
@@ -31,7 +31,7 @@ Détail des projets et institutions retenues : https://www.chartes.psl.eu/projet
 
 ### Projet 6 : Naturalis historia : Cartographier l’imaginaire naturel médiéval dans Mandragore -  École nationale des chartes-PSL, BnF
 - Équipe : Ye Liu (M2),	Nana Maglakelidze (M2)
-- Résultats :
+- Résultats : https://github.com/yeliu-dh/mandragore_VLG
 
 ### Projet 7 : L’avortement à la télévision française (1960–2024) -  Institut National de l’Audiovisuel
 - Équipe : Chloe Jollivet-Courtois (M2), Irandokht Moinzadeh (M1), Charles Planque (M1)
@@ -55,7 +55,7 @@ Détail des projets et institutions retenues : https://www.chartes.psl.eu/projet
 
 ### Projet 12 : One prompt to rule them all? Compet. d’HTR de manuscrits médiévaux français  - École nationale des chartes-PSL, ERC LostMa
 - Équipe : Pôle HTR collectif (dir. Chahan Vidal-Gorène, Alexandre Lionnet-Rollin)
-- Résultats :
+- Résultats : https://github.com/CVidalG/HackathonHN-2026-HTR
 
 ### Projet 13 : Quand Archelec rencontre l'IA -  SciencesPo
 - Équipe : Maria Kirbasova (M2), Charles Planque (M1), Manon Remot (M1)
@@ -63,7 +63,7 @@ Détail des projets et institutions retenues : https://www.chartes.psl.eu/projet
 
 ### Projet 14 : Text Acquisition Pipeline for Early-Modern Latin Manuscripts -  École nationale des chartes-PSL, ANR
 - Équipe : Pôle HTR collectif (dir. Chahan Vidal-Gorène, Alexandre Lionnet-Rollin)
-- Résultats :
+- Résultats : https://github.com/CVidalG/HackathonHN-2026-HTR
 
 ### Projet 15 : Analyser en direct les flux de chaînes d’information en continu -  InfoVox Tracker
 - Équipe : Marisol Du Cauze De Nazelle (M1), Damien Conceicao (M2), Maria Kirbasova (M2), Garance Raynaud (M1), Manon Remot (M1)
