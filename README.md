@@ -51,7 +51,7 @@ Détail des projets et institutions retenues : https://www.chartes.psl.eu/projet
 
 ### Projet 11 : Réunion de microfaciès de silicites par la reconnaissance de formes dans des images microscopiques -  GDR Silex
 - Équipe : Gaëtan Drouet (M2),	Mathias Garnier (M1)
-- Résultats :
+- Résultats : https://github.com/GaetanDrouet/Hackathon2026_spicules
 
 ### Projet 12 : One prompt to rule them all? Compet. d’HTR de manuscrits médiévaux français  - École nationale des chartes-PSL, ERC LostMa
 - Équipe : Pôle HTR collectif (dir. Chahan Vidal-Gorène, Alexandre Lionnet-Rollin)
