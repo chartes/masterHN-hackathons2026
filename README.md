@@ -15,7 +15,7 @@ Détail des projets et institutions retenues : https://www.chartes.psl.eu/projet
 
 ### Projet 2 : Entités nommées dans la BiblioBase  - CNRS, ANR, cellf
 - Équipe : Gaëtan Drouet (M2), Radjaa Benabdallah (M2)
-- Résultats :
+- Résultats : https://github.com/GaetanDrouet/Hackathon2026_BiblioBase
 
 ### Projet 3 : Abbreviations and algorithms - The Icelandic challenge -  École nationale des chartes-PSL, ANR
 - Équipe : Pôle HTR collectif (dir. Chahan Vidal-Gorène, Alexandre Lionnet-Rollin)
